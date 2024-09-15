@@ -1,0 +1,14 @@
+ ### Model Selection
+
+Available Models
+
+Llama 2 7B
+Mistral 7B
+Model Types
+
+Chat Versions: Instruction fine-tuned
+Regular Versions: Standard fine-tuning
+Model Requirement
+
+Must be ≤7 billion parameters.
+Available on HuggingFace.
