@@ -1,0 +1,13 @@
+
+
+#### 2. Data
+1. **Available Datasets**
+   - **StackOverflow Dataset:** [Link](https://huggingface.co/datasets/jbrophy123/stackoverflow_dataset)
+   - **Quora Dataset:** [Link](https://huggingface.co/datasets/jbrophy123/quora_dataset)
+   - **Alpaca Dataset:** [Link](https://huggingface.co/datasets/jbrophy123/alpaca_dataset)
+   - **Medical Dataset:** [Link](https://huggingface.co/datasets/jbrophy123/medical_dataset)
+   - **Sentiment Classification Dataset:** [Link](https://huggingface.co/datasets/jbrophy123/imdb_sentiment_analysis)
+
+2. **Training Limit**
+   - Limit of 2,000 training observations.
+
