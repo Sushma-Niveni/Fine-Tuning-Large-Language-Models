@@ -1,0 +1,14 @@
+Vast.ai Tutorial
+Generate SSH Key
+
+Follow instructions: SSH Key Setup
+Instance Connection
+
+SSH Command: ssh -p <port> root@<ip_address>
+Code Transfer
+
+Use scp to transfer code to Vast.ai instance.
+Example: scp -r -P 40473 /local/path root@100.34.98.40:/remote/directory/
+Running Code
+
+Execute code via command line or interface after logging in.
